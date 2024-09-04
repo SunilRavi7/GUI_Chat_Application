@@ -1,8 +1,55 @@
-# GUI_Chat_Application
-GUI Chat Application using Python, and Socket IO development of a GUI-based chat application using Python, leveraging the Tkinter library for the user interface and Socket programming for the client-server communication.  The application is built on a client-server architecture.
-The process of conversing, engaging, and/or exchanging messages through the Internet is referred to as chatting. It involves two or more people communicating via a chat-enabled service or program.
-Chat can be given via the Internet using text, voice, or video communication. A chat program is made up of two fundamental components: a server and a client.
-A Server is a computer program or hardware device that offers functionality to other programs or hardware. 
- A Client or clients are simply persons who wish to communicate with one another. Also, clients first need to connect to the server and then the server will work as a medium between clients.
-The chat program we’ll create will be more like a chat room than a peer-to-peer chat. As a result, numerous users can connect to the chat server and submit messages. Any message is sent to every chat user that is connected. 
-![Server](server.png)
+# GUI Chat Application
+
+This project involves the development of a GUI-based chat application using Python, leveraging the **Tkinter** library for the user interface and **Socket** programming for the client-_server_ communication.
+
+## Overview
+
+The application is built on a client-_server_ architecture, where multiple clients can connect to a _server_, and all messages are broadcasted to all connected users in real-time. The GUI is designed using **Tkinter**, providing an intuitive and interactive chat room interface for users.
+
+## Technologies Used
+
+- **Python**
+- **Tkinter**: For the graphical user interface
+- **Socket**: For handling client-_server_ communication
+
+## Features
+
+- **Real-time messaging** between multiple clients.
+- **Simple and easy-to-use interface**.
+- **Efficient handling** of multiple client connections by the _server_.
+
+## How to Run
+
+<div style="background-color:#f0f0f0; padding:10px; border-radius:5px;">
+<font color="blue">1. **Clone the repository**.</font><br>
+<font color="green">2. **Run the _server_** using `python server.py`.</font><br>
+<font color="purple">3. **Run the client** using `python client.py`.</font><br>
+<font color="orange">4. **Connect multiple clients** to the _server_ and start chatting!</font>
+</div>
+
+### Important Note
+
+In the `client.py` file, the number of clients is **restricted to a maximum of 5**. You can change this limit as per your requirements by modifying the code.
+
+## Screenshots
+
+Below are some screenshots of the application:
+
+1. **Server Console**:
+
+   ![Server Console](images/server.png) 🖥️
+
+2. **Client Interface**:
+
+   ![Client Interface](images/client1.png) 💬
+
+3. **Client Interface 2 **:
+
+   ![Chat Room Interface](images/client2.png) 🖼️
+
+---
+
+### Connect with Me
+
+- **LinkedIn**: [Sunil R](your-linkedin-profile-url)
+- **Email**: sunilr31r@gmail.com
