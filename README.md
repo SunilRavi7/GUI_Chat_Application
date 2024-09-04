@@ -50,5 +50,5 @@ Below are some screenshots of the application:
 
 ### Connect with Me
 
-- **LinkedIn**: [Sunil R](your-linkedin-profile-url)
+- **LinkedIn**: [Sunil R](www.linkedin.com/in/sunilr31r)
 - **Email**: sunilr31r@gmail.com
