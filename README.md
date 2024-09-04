@@ -41,7 +41,7 @@ Below are some screenshots of the application:
 
 2. **Client Interface**:
 
-   ![Client Interface](images/client 1.png) 💬
+   ![Client Interface](https://github.com/SunilRavi7/GUI_Chat_Application/blob/main/images/client%201.png) 💬
 
 3. **Client Interface 2 **:
 
