@@ -41,11 +41,11 @@ Below are some screenshots of the application:
 
 2. **Client Interface**:
 
-   ![Client Interface](images/client1.png) 💬
+   ![Client Interface](images/client 1.png) 💬
 
 3. **Client Interface 2 **:
 
-   ![Chat Room Interface](images/client2.png) 🖼️
+   ![Chat Room Interface](images/client 2.png) 🖼️
 
 ---
 
