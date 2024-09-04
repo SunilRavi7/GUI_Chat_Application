@@ -44,7 +44,7 @@ Below are some screenshots of the application:
 
 3. **Client Interface 2 **:
 
-   ![Chat Room Interface]([images/client 2.png](https://github.com/SunilRavi7/GUI_Chat_Application/blob/main/images/client%202.png)) 🖼️
+   ![Client Interface 2](https://github.com/SunilRavi7/GUI_Chat_Application/blob/main/images/client%202.png) 🖼️
 
 ---
 
