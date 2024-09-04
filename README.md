@@ -18,14 +18,13 @@ The application is built on a client-_server_ architecture, where multiple clien
 - **Simple and easy-to-use interface**.
 - **Efficient handling** of multiple client connections by the _server_.
 
-## How to Run
+## 🚀 How to Run
 
-<div style="background-color:#f0f0f0; padding:10px; border-radius:5px;">
-<font color="blue">1. **Clone the repository**.</font><br>
-<font color="green">2. **Run the _server_** using `python server.py`.</font><br>
-<font color="purple">3. **Run the client** using `python client.py`.</font><br>
-<font color="orange">4. **Connect multiple clients** to the _server_ and start chatting!</font>
-</div>
+1. **🔄 Clone the repository**.
+2. **⚙️ Run the _server_** using `python server.py`.
+3. **💻 Run the client** using `python client.py`.
+4. **🗣️ Connect multiple clients** to the _server_ and start chatting!
+
 
 ### Important Note
 
